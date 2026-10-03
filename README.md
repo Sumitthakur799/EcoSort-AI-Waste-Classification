@@ -1,0 +1,1 @@
+# AI-based-waste-classification-using-MobileNetV2-transfer-learning-and-Streamlit.
